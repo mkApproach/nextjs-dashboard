@@ -1,3 +1,5 @@
+Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope Process 
+
 echo "# next-todo-app" >> README.md
 git init
 git add README.md
